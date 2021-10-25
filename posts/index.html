@@ -57,20 +57,83 @@
 
 
 
-<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-xl top-navbar initial-navbar" id="top-navbar">
   <div class="container">
-      <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
-      <span class="navbar-toggler-icon"></span>
-    </button>
     <a class="navbar-brand" href="/">
       Shanghai Cchip</a>
-    <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
+    <button
+      class="navbar-toggler navbar-dark"
+      id="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#top-nav-items"
+      aria-label="menu"
+    >
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
+    <div class="collapse navbar-collapse" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
-      
+        <li class="nav-item">
+          <a class="nav-link" href="#home">Home</a>
+        </li>
+        
+          
+          
+            
+              
+              
+                <li class="nav-item">
+                  <a class="nav-link" href="#about">About</a>
+                </li>
+              
+            
+            
+            
+            
+            
+              
+              
+                <li class="nav-item">
+                  <a class="nav-link" href="#recent-posts">Recent Products</a>
+                </li>
+              
+            
+            
+          
+        
+        
+          <div class="dropdown-divider" id="top-navbar-divider"></div>
+        
+        
+        
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/posts/">Products</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/applications">Applications</a>
+          </li>
+        
+        
       </ul>
     </div>
   </div>
@@ -168,7 +231,7 @@
       </div>
       <div class="card-body">
         <h5 class="card-title">molex</h5>
-        <p class="card-text post-summary">MOLEX.</p>
+        <p class="card-text post-summary">莫仕是一家全球性连接器解决方案公司。产品应用于汽车交通，数据通讯，消费类电子，医疗等领域。</p>
       </div>
       <div class="card-footer">
         
@@ -193,7 +256,7 @@
       </div>
       <div class="card-body">
         <h5 class="card-title">CoolSemi</h5>
-        <p class="card-text post-summary">上海市科委SiC项目支持。</p>
+        <p class="card-text post-summary">功成半导体是以市场为导向技术创新驱动，为客户提供高效可靠的产品。</p>
       </div>
       <div class="card-footer">
         
@@ -354,6 +417,7 @@
                 <li class="nav-item">
                   <a class="smooth-scroll" href="https://jessewcj.github.io#recent-posts">Recent Products</a>
                 </li>
+              
               
           </ul>
           
