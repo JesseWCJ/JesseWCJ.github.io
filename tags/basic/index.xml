@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Products</title>
+      <link>https://jessewcj.github.io/posts/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CoolSemi</title>
       <link>https://jessewcj.github.io/posts/coolsemi/</link>
       <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
@@ -41,6 +50,24 @@
       
       <guid>https://jessewcj.github.io/posts/gotion/</guid>
       <description>国轩高科股份有限公司于2015年5月成功上市，股票代码002074，拥有新能源汽车 动力电池、储能、输配电设备等业务板块。</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://jessewcj.github.io/applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>应用</title>
+      <link>https://jessewcj.github.io/applications.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/applications.zh/</guid>
+      <description></description>
     </item>
     
   </channel>

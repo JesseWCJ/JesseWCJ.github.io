@@ -399,5 +399,14 @@ This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
     </item>
     
+    <item>
+      <title>应用</title>
+      <link>https://jessewcj.github.io/applications.zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/applications.zh/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

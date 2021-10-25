@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品 on Shanghai Cchip</title>
+    <link>https://jessewcj.github.io/zh/posts/</link>
+    <description>Recent content in 产品 on Shanghai Cchip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jessewcj.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>molex</title>
+      <link>https://jessewcj.github.io/zh/posts/molex/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/zh/posts/molex/</guid>
+      <description>莫仕是一家全球性连接器解决方案公司。产品应用于汽车交通，数据通讯，消费类电子，医疗等领域。</description>
+    </item>
+    
+    <item>
+      <title>Coolsemi</title>
+      <link>https://jessewcj.github.io/zh/posts/coolsemi/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/zh/posts/coolsemi/</guid>
+      <description>功成半导体是以市场为导向技术创新驱动，为客户提供高效可靠的产品。</description>
+    </item>
+    
+    <item>
+      <title>MIntSilicon</title>
+      <link>https://jessewcj.github.io/zh/posts/mintsilicon/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/zh/posts/mintsilicon/</guid>
+      <description>明矽微电子是一家以RFID和NVM 存储器芯片为核心的物联网芯片设计和解决方案公司。</description>
+    </item>
+    
+    <item>
+      <title>GOTION HIGH-TECH</title>
+      <link>https://jessewcj.github.io/zh/posts/gotion/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jessewcj.github.io/zh/posts/gotion/</guid>
+      <description>国轩高科股份有限公司于2015年5月成功上市，股票代码002074，拥有新能源汽车 动力电池、储能、输配电设备等业务板块。</description>
+    </item>
+    
+  </channel>
+</rss>
